@@ -29,7 +29,7 @@
 
 | **Project**                             | **Description**                                                                                                   |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| [US Visa Status Prediction](https://github.com/harsha0603/visa-status-prediction) | Developed a 95% accurate model using KNN. Deployed with Docker, AWS, FastAPI.                                      |
+| [US Visa Status Prediction](https://github.com/harsha0603/usa-visa-end-to-end) | Developed a 95% accurate model using KNN. Deployed with Docker, AWS, FastAPI.                                      |
 | [Chest Cancer Classification](https://github.com/harsha0603/chest-cancer-classification) | Built a CNN with TensorFlow, deployed with Flask and AWS. Integrated CI/CD using GitHub Actions and DVC.           |
 
 
