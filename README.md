@@ -39,6 +39,5 @@
 
 Feel free to reach out for collaborations or discussions!  
 📧 **Email:** harshamassss@gmail.com  
-🔗 **LinkedIn:** [K. Sree Harsha](https://linkedin.com/in/k-sree-harsha)
-
+🔗 **LinkedIn:** [K. Sree Harsha](https://www.linkedin.com/in/k-sree-harsha-36096b235)
 ---
