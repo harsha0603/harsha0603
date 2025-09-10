@@ -50,5 +50,5 @@ I am a **Computer Science graduate** passionate about building and deploying int
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
-- 📧 **Email:** [harshamassss@gmail.com](mailto:harsha0461@gmail.com)
+- 📧 **Email:** [harsha0461@gmail.com](mailto:harsha0461@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/k-sree-harsha](https://www.linkedin.com/in/k-sree-harsha-36096b235)
