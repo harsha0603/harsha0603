@@ -1,6 +1,6 @@
 # K. Sree Harsha
 
-🚀 **Machine Learning Engineer** | Specializing in MLOps and LLMs | 🌍 Bengaluru, India
+🚀 **AI Engineer** | Specializing in MLOps and LLMs | 🌍 Bengaluru, India
 
 <p align="left">
   <a href="https://www.linkedin.com/in/k-sree-harsha-36096b235" target="_blank">
